@@ -17,8 +17,6 @@
 ✨ Computer Science student passionate about building real-world impactful applications  
 ✨ Strong interest in **Artificial Intelligence, Software Development & Problem Solving**  
 ✨ Currently mastering **Data Structures & Algorithms + Machine Learning + Full Stack Development**  
-✨ Building a **Stress Detection Game (Pygame + ML + Computer Vision)**  
-✨ Focused on cracking top tech companies like **Google, Microsoft, Amazon**  
 
 ---
 
