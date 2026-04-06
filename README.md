@@ -1,27 +1,41 @@
-<h1 align="center">Hi 👋, I'm Varshini Shekar</h1>
-<h3 align="center">Aspiring Software Developer | AI Enthusiast | Problem Solver</h3>
+<h1 align="center">Hi 👋, I'm Varshini</h1>
+<h3 align="center">🚀 Aspiring Software Developer | 🤖 AI Enthusiast | 💡 Problem Solver</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=varshinishekar15&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=varshinishekar15&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/varshinishekar15">
+    <img src="https://img.shields.io/github/followers/varshinishekar15?label=Followers&style=social" />
+  </a>
 </p>
 
 ---
 
-## 🚀 About Me
-- 🎓 Computer Science Student passionate about building impactful software  
-- 💡 Interested in **Artificial Intelligence, Software Development & Problem Solving**  
-- 🌱 Currently learning **Data Structures & Algorithms, Machine Learning, and Full Stack Development**  
-- 🎮 Working on a **Stress Detection Game using Python (Pygame + ML)**  
-- 🎯 Goal: To get placed in top tech companies like Google, Microsoft, etc.  
+## 🌟 About Me
+✨ Computer Science student passionate about building real-world impactful applications  
+✨ Strong interest in **Artificial Intelligence, Software Development & Problem Solving**  
+✨ Currently mastering **Data Structures & Algorithms + Machine Learning + Full Stack Development**  
+✨ Building a **Stress Detection Game (Pygame + ML + Computer Vision)**  
+✨ Focused on cracking top tech companies like **Google, Microsoft, Amazon**  
+
+---
+
+## 🚀 What I'm Doing Right Now
+- 🔥 Solving DSA problems daily  
+- 🧠 Exploring AI & Deep Learning  
+- 💻 Building real-world projects  
+- 🌐 Learning full-stack development  
 
 ---
 
 ## 🌐 Connect With Me
-<p align="left">
-<a href="https://linkedin.com/in/varshinishekar" target="blank">
+<p align="center">
+<a href="https://linkedin.com/in/varshinishekar">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
 </a>
-<a href="https://instagram.com/varshini_shekar15" target="blank">
+<a href="https://instagram.com/varshini_shekar15">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 <a href="mailto:varshinishekar15@gmail.com">
@@ -34,41 +48,25 @@
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-<p>
-<img src="https://img.shields.io/badge/C-blue?style=flat-square&logo=c" />
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus" />
-<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp" />
-<img src="https://img.shields.io/badge/Java-orange?style=flat-square&logo=java" />
-<img src="https://img.shields.io/badge/Python-yellow?style=flat-square&logo=python" />
-<img src="https://img.shields.io/badge/HTML5-orange?style=flat-square&logo=html5" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,html" />
 </p>
-
----
 
 ### 🌐 Frameworks & Platforms
-<p>
-<img src="https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask" />
-<img src="https://img.shields.io/badge/React-blue?style=flat-square&logo=react" />
-<img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js" />
-<img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=flask,react,nextjs,anaconda" />
 </p>
 
----
-
-### 🎨 Design Tools
-<p>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma" />
+### 🎨 Design & Tools
+<p align="center">
+<img src="https://skillicons.dev/icons?i=figma,photoshop" />
 <img src="https://img.shields.io/badge/Apache-CA2133?style=flat-square&logo=apache" />
-<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop" />
 </p>
 
----
-
-### 🤖 Machine Learning & Data Science
-<p>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow" />
+### 🤖 AI / ML Stack
+<p align="center">
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch" />
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas" />
@@ -77,29 +75,51 @@
 
 ---
 
-## 🏆 GitHub Trophies
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=varshinishekar15&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
-</p>
+## 🧠 Featured Projects
+🚀 **Stress Detection Game**  
+👉 Pygame + Machine Learning + OpenCV  
+👉 Detects stress via facial expressions and adapts gameplay  
+
+🚀 **DSA Practice Repository**  
+👉 Structured solutions for coding interview preparation  
+
+🚀 **Upcoming:** Full Stack Web App (React + Flask)  
+
+---
+
+## 🏆 Achievements & Highlights
+- 💡 Building AI-powered applications  
+- 🔥 Consistent DSA problem solving  
+- 🎯 Focused on strong problem-solving skills  
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=varshinishekar15&show_icons=true&theme=radical" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=varshinishekar15&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api?username=varshinishekar15&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=varshinishekar15&theme=tokyonight" />
 </p>
 
 ---
 
-## 🔥 Top Contributed Repositories
+## 📈 Activity Graph
 <p align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=varshinishekar15&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=varshinishekar15&theme=tokyo-night" />
 </p>
 
 ---
 
-## ✨ Quote
-> "Code. Learn. Build. Repeat. 🚀"
+## 🏆 GitHub Trophies
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=varshinishekar15&theme=tokyonight&margin-w=5" />
+</p>
 
 ---
+
+## ✨ Fun Fact
+💡 I believe coding is not just writing code — it's solving real-world problems creatively.
+
+---
+
+## 🚀 Quote
+> "Stay consistent. Build projects. Success will follow. 💯"
